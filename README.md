@@ -38,8 +38,8 @@ Certifique-se de que seu ambiente atenda aos seguintes requisitos:
 ### Backend (Laravel)
 1. Clone o repositório:
 ```bash
-git clone https://github.com/JhonnyASoares/Crud_ionic_laravel
-cd task-app
+git clone https://github.com/JhonnyASoares/crud-ionic-laravel
+cd crud-ionic-laravel/task-app
 ```
 2. Instale as dependências:
 ```bash
